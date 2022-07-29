@@ -24,6 +24,7 @@
 ## Features ✨
 
 - Instantly Setup a Solar System Project `Planned`
+- Choose Default Adapters `Planned`
 - Typescript Support `Planned`
 
 ## Install 🛠
