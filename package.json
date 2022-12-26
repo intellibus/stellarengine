@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "stellarengine",
-  "version": "1.0.204",
+  "version": "1.0.205",
   "description": "Instantly Create Multi-Cloud Serverless Applications",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
